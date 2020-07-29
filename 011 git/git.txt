@@ -1,1 +1,2 @@
 git clone https://github.com/kuzmenkobogdan/js.git folderName <- имя папки которую создадим. Копирование с онлайн на пк
+git pull добавление всех изминений с онлайн

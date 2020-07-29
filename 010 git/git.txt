@@ -1,0 +1,9 @@
+git init для инициализации 
+git config --local(--global) user.name "name" для имени
+git config --local(global) user.email "email@email.com" для емэйла
+
+git add -A добавить все файлы
+git commit -a -m"commit" коментарий всем файлам
+git status состояние 
+git log изминения за все время
+git push загрузить изменения в репозиторий онлайн
